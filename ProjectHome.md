@@ -1,0 +1,2 @@
+VBET 2.0 is a trial version offered also as part of the Queplix QueWeb Vantive upgrade package (read more at http://www.queplix.com/solutions/vantive-conversion.php)
+The trial version will convert up to 30 various Vantive attachments at a time and you can select the range of keys of the attachments you want to try. Full version can be downloaded from queplix.com or by contacting sales@queplix.com
